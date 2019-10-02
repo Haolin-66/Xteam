@@ -3,3 +3,9 @@ Linux is too complicated to use
 But I like it
 I don't really like it, it is confused. Hopefully I can be skilled at the
  end of this semester
+
+By the end of the semester, we will all have a greater understanding of how 
+linux works.  Especially after all of these assignments using linux and git.
+
+Now to the story:
+Once there was a student who never did their homework...
