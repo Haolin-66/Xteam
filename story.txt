@@ -8,4 +8,5 @@ By the end of the semester, we will all have a greater understanding of how
 linux works.  Especially after all of these assignments using linux and git.
 
 Now to the story:
-Once there was a student who never did their homework...
+Once there was a student who never did their homework. Resultantly, the student's grades
+were dropping.
