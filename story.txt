@@ -10,3 +10,6 @@ linux works.  Especially after all of these assignments using linux and git.
 Now to the story:
 Once there was a student who never did their homework. Resultantly, the student's grades
 were dropping.
+
+I am starting to like linux now.
+
